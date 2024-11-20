@@ -5,6 +5,6 @@ git clone <repo-url>
 cd <project-directory>
 poetry install
 
-Инструкция по установке:
+Инструкция по запуску:
 
 poetry run python src/main.py
